@@ -1,0 +1,187 @@
+.nav img {
+    width: 270px ;
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.navigateur a {
+    margin-left: 10px;
+    color: rgb(116, 114, 114);
+    font-size: 1.2rem;
+    text-decoration: none;
+    }
+.coleur{  
+    color: #00b39b !important;
+
+}   
+.partone img{
+    width:80px;
+}
+.partone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+  }
+  .parag {
+      display: flex;
+      width:60%;
+}
+.part2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+
+}
+.renverse {
+    display:flex;
+    flex-direction: column;
+
+}
+.patient{
+    background-color: aquamarine;
+    color: blanchedalmond;
+    width: 291px;
+    height: 286px;
+    padding: 40px;
+}
+.doctors {
+    background-color: cornflowerblue;
+    color: blanchedalmond;
+    width: 291px;
+    height: 286px;
+    padding: 40px;
+    margin-left: 10px;
+}
+.clinic {
+    background-color: rgb(63, 60, 60);
+    color: blanchedalmond;
+    width: 291px;
+    height: 286px;
+    padding: 40px;
+    margin-left: 10px;
+}
+.part2 {
+    justify-content: space-around;
+}
+.part3{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+.part3 h1{
+    font-size: 1.625em;
+    color:aquamarine;
+}
+.logoo {
+    flex-wrap: wrap-reverse;
+
+}
+.logo{
+    width: 100px !important;
+   
+}
+.part4 {
+    display:flex;
+    background-color: rgb(139, 233, 225) ;
+}
+.me1{
+    flex-direction: column;
+}
+.me2{
+    flex-direction: column;
+}
+.countries  {
+    justify-content: center;
+    align-items: center;
+    width:200px;
+}
+.me1 {
+    color: aquamarine;
+    padding-left: 400px;
+    margin-top: 50px;
+    
+}
+.me2 {
+    color: aquamarine;
+    padding-left: 50px;
+}
+.part41 {
+    flex-direction: column;
+    width: 250px;
+    color: aquamarine;
+    padding-left: 40px;
+}
+.part41 h2{
+    color: black;
+}
+.countries img{
+    margin-left: 50px;
+}
+.appointments img {
+    margin-left: 50px;
+}
+.patients img {
+    margin-left: 50px;
+}
+.doctorss img{
+    margin-left: 50px;
+}
+.part5 h2 {
+    color: aquamarine;
+}
+.part5 h3 {
+    color: grey;
+}
+.part5 {
+    width: 500px;
+    margin-left: 40%;
+    font-size: 12px;
+}
+.images button {
+    background-color: blue;
+    color: white;
+}
+.images h5 {
+    color: grey;
+}
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.part6 button{
+    background-color: blue;
+    color: white;
+    margin-left: 40%;
+}
+.part6 h4 {
+    font-size: 20x;
+    margin-left: 40%;
+}
+.countries {
+    background-color: honeydew;
+}
+.appointments {
+    background-color: honeydew;
+}
+.patients {
+    background-color: honeydew;
+}
+.doctorss {
+    background-color: honeydew;
+}
+.gg{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
